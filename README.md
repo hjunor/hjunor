@@ -13,7 +13,7 @@ Meu nome é Heberth Junor, graduando em Sistemas de Informação, atualmente no 
 - :office_worker: Em busca de um estágio/emprego, estudando muito para ser um ótimo profissional.
 - :blue_heart: Techs: React.js, Node.js, Docker, TypeScript, e vai aumentar mais.
 - :books: Estudando Clean Code e Clean Architecture, Docker, NodeJS e TypeScript :heart:
-
+[![Instagram](https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg)](https://www.instagram.com/hjunor_dev/)
 
 ---
 
