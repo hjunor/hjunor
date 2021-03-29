@@ -6,6 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/hjunor)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:hjunor@gmail.com)
 
+
 ## Seja Bem vindo! 👋
 
 Meu nome é Heberth Junor, graduando em Sistemas de Informação, atualmente no 6° período apaixonado por Desenvolvimento Web.
@@ -17,6 +18,8 @@ Meu nome é Heberth Junor, graduando em Sistemas de Informação, atualmente no 
 <br>
 
 [![Instagram](https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg)](https://www.instagram.com/hjunor_dev/)
+
+[Curriculo](https://drive.google.com/file/d/1fh-uenP9cidpXjhWsZLwVltmRnuUyUlO/view?usp=sharing)
 
 ---
 
