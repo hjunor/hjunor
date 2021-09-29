@@ -13,7 +13,7 @@ Meu nome é Heberth Junor, graduando em Sistemas de Informação, atualmente no 
 
 - :office_worker: Desenvolvedor React.Js Jr na Ox Pay.
 - :blue_heart: Techs: React.js, Node.js, Docker, TypeScript, e vai aumentar mais.
-- :books: Estudando Clean Code e Clean Architecture, Docker, NodeJS e TypeScript :heart:
+- :books: Estudando RectJS, Clean Code e Clean Architecture, Docker, NodeJS e TypeScript :heart:
 <br>
 <br>
 
