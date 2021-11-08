@@ -13,7 +13,8 @@ Meu nome é Heberth Junor, graduando em Sistemas de Informação, atualmente no 
 
 - :office_worker: Desenvolvedor React.Js Jr na Ox Pay.
 - :blue_heart: Techs: React.js, Node.js, Docker, TypeScript, e vai aumentar mais.
-- :books: Estudando RectJS, Clean Code e Clean Architecture, Docker, NodeJS e TypeScript :heart:
+- :books: Estudando RectJS, Clean Code e Clean Architecture, Docker, NodeJS e TypeScript  :heart:
+- :books: Estudando Go Lang, cada dia :heart:
 <br>
 <br>
 
@@ -27,7 +28,9 @@ Meu nome é Heberth Junor, graduando em Sistemas de Informação, atualmente no 
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=hjunor&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hjunor/hjunor)
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=hjunor&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=dracula)](https://github.com/hjunor/hjunor)
+  <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjunor&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Algumas das tecnologias que uso!
 
