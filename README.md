@@ -43,5 +43,6 @@ Meu nome é Heberth Junor, graduando em Sistemas de Informação, atualmente no 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/web.svg" alt="powershell" style="vertical-align:top; margin:4px">
 </details>
-
-
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/hjunor/count.svg" />
+</p>
